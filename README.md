@@ -1,8 +1,8 @@
 # Pluton Executor - The BEST FREE and PAID Roblox Executor for PC 🚀
 
-[![Downloads](https://img.shields.io/badge/Downloads-40K%2B-brightgreen?style=for-the-badge)](link) [![Rating](https://img.shields.io/badge/Rating-4.8%2F5-blue?style=for-the-badge)](link) [![Updated](https://img.shields.io/badge/Status-Updated_Recently-green?style=for-the-badge)](link)
+[![Downloads](https://img.shields.io/badge/Downloads-40K%2B-brightgreen?style=for-the-badge)](getpluton.xyz/download) [![Rating](https://img.shields.io/badge/Rating-4.8%2F5-blue?style=for-the-badge)](link) [![Updated](https://img.shields.io/badge/Status-Updated_Recently-green?style=for-the-badge)](link)
 
-**Modern. Powerful. Fast**
+**Modern. Powerful. Fast**⚡
 Pluton Executor is a next-generation Roblox executor focused on **raw performance, stealthy injection, and full sUNC compliance.** Built from the ground up with a custom Lua VM and advanced hooking methods, Pluton was made to bypass modern anti-cheat layers while maintaining near-zero crash rates.
 
 Designed for power users, Pluton features **instant injection, high-speed script execution, and full support for complex modules,** including decompilers, AI learning, and multi-instance environments.
@@ -15,7 +15,7 @@ Pluton is built with a modern modular UI designed for 2026+ Roblox environments.
 
 ---
 
-## Features
+## Features ✨
 
 Pluton Executor comes packed with professional-grade functionality that makes it stand out from other executors:
 
@@ -124,7 +124,7 @@ If you’re done dealing with shady tools that break overnight or put your syste
 
 ---
 
-## Prices (AUD)
+## Prices (AUD) 💰
 
 - 1 Day - $0.99 
 - 3 Days - $1.99
@@ -132,7 +132,7 @@ If you’re done dealing with shady tools that break overnight or put your syste
 - 1 Month - $13.99
 - Lifetime - *Currently Not Available*
 
-[![Buy Pluton Executor](https://img.shields.io/badge/Buy-$uccess-success?style=for-the-badge&logo=stripe&logoColor=white)](link)
+[![$ BUY](https://img.shields.io/badge/$%20BUY-PREMIUM-success?style=for-the-badge&logo=stripe&logoColor=white)](getpluton.xyz/buy)
 
 ---
 
@@ -156,15 +156,24 @@ Even though it is **impossible** to make a fully ban-proof executor, Pluton has 
 
 ---
 
-## Conclusion
+## Conclusion ⭐ 
 
 Pluton Executor continues to dominate in 2026 as one of the **top free Roblox executors** on the market.
 With rock-solid stability, rapid updates, a sleek, modern UI, a  strong feature set, and expanding mobile support, it covers everything most users are looking for.
 
 No matter if you’re just starting, grinding on PC, or deep into advanced scripting - **Pluton Executor** is worth checking out.
 
-[![Download Pluton Executor FREE](https://img.shields.io/badge/Download-NOW-success?style=for-the-badge\&logo=rocket\&logoColor=white)](link)
+[![Download Pluton Executor FREE](https://img.shields.io/badge/Download-NOW-success?style=for-the-badge\&logo=rocket\&logoColor=white)](getpluton.xyz/download)
 
 Tens of thousands have already switched… and very few ever leave.
 
 Enjoy & stay safe 💜
+
+---
+
+## Follow Me to Stay Up to Date 🌐
+
+- 🐦 **Twitter/X** - @PlutonTeam
+- 📺 **YouTube Tutorials** - Search "PlutoX" and click the top channel
+- 💬 **Discord** - discord.gg/pluton
+Thank you for choosing **Pluton Executor** - see you in-game! 🎮✨
