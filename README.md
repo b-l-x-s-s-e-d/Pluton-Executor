@@ -126,11 +126,11 @@ If you’re done dealing with shady tools that break overnight or put your syste
 
 ## Prices (AUD)
 
-1 Day - $0.99 
-3 Days - $1.99
-1 Week - $4.99
-1 Month - $13.99
-Lifetime - *Currently Not Available*
+- 1 Day - $0.99 
+- 3 Days - $1.99
+- 1 Week - $4.99
+- 1 Month - $13.99
+- Lifetime - *Currently Not Available*
 
 [![Buy Pluton Executor](https://img.shields.io/badge/Buy-$uccess-success?style=for-the-badge&logo=stripe&logoColor=white)](link)
 
@@ -163,7 +163,7 @@ Here’s a clean paraphrase that keeps the same hype but sounds original (link u
 ---
 
 Pluton Executor continues to dominate in 2026 as one of the **top free Roblox executors** on the market.
-With rock-solid stability, rapid updates, a sleek, modern UI,a  strong feature set, and expanding mobile support, it covers everything most users are looking for.
+With rock-solid stability, rapid updates, a sleek, modern UI, a  strong feature set, and expanding mobile support, it covers everything most users are looking for.
 
 No matter if you’re just starting, grinding on PC, or deep into advanced scripting - **Pluton Executor** is worth checking out.
 
