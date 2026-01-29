@@ -62,12 +62,12 @@ Pluton Executor comes packed with professional-grade functionality that makes it
 
 ## Why Use Pluton Executor? 🤔
 
-There are countless Roblox executors on the scene — but only a handful can genuinely be considered trustworthy in 2026. That’s exactly why so many users are switching to Pluton Executor:
+There are countless Roblox executors on the scene - but only a handful can genuinely be considered trustworthy in 2026. That’s exactly why so many users are switching to Pluton Executor:
 
-- Exceptional stability — community reports show near-zero crash rates
-- Rapid updates — often patched within hours of major Roblox changes
-- Advanced anti-detection systems — designed for long-term, low-risk use
-- Fully free — no subscriptions, no hidden features locked behind paywalls
+- Exceptional stability - community reports show near-zero crash rates
+- Rapid updates - often patched within hours of major Roblox changes
+- Advanced anti-detection systems - designed for long-term, low-risk use
+- Fully free - no subscriptions, no hidden features locked behind paywalls
 - Active dev team with transparent communication and frequent improvements
 - Optimised for modern systems, including strong mobile compatibility
 - Built-in script hub with a massive and constantly expanding library
