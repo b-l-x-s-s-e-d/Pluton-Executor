@@ -2,7 +2,7 @@
 
 [![Downloads](https://img.shields.io/badge/Downloads-40K%2B-brightgreen?style=for-the-badge)](getpluton.xyz/download) [![Rating](https://img.shields.io/badge/Rating-4.8%2F5-blue?style=for-the-badge)](link) [![Updated](https://img.shields.io/badge/Status-Updated_Recently-green?style=for-the-badge)](link)
 
-**Modern. Powerful. Fast**⚡
+**Modern. Powerful. Fast**⚡<br>
 Pluton Executor is a next-generation Roblox executor focused on **raw performance, stealthy injection, and full sUNC compliance.** Built from the ground up with a custom Lua VM and advanced hooking methods, Pluton was made to bypass modern anti-cheat layers while maintaining near-zero crash rates.
 
 Designed for power users, Pluton features **instant injection, high-speed script execution, and full support for complex modules,** including decompilers, AI learning, and multi-instance environments.
