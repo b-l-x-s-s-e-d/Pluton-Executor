@@ -11,7 +11,7 @@ Pluton is built with a modern modular UI designed for 2026+ Roblox environments.
 
 > ⚡**Click the download button above** - Safe, Fast & Completely Free Download! No surveys, no keys!⚡
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/33c94251-3fe9-419a-8133-691aa6ec81fd" />
+<img width="1280" height="720" alt="image" src="images/pluton.png" />
 
 ---
 
