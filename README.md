@@ -175,5 +175,5 @@ Enjoy & stay safe 💜
 
 - 🐦 **Twitter/X** - @PlutonTeam
 - 📺 **YouTube Tutorials** - Search "PlutoX" and click the top channel
-- 💬 **Discord** - discord.gg/pluton
+- 💬 **Discord** - discord.gg/pluton<br>
 Thank you for choosing **Pluton Executor** - see you in-game! 🎮✨
