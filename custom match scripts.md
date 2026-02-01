@@ -182,3 +182,71 @@ end)
 
 print("[Scaffold ALWAYS ON] Loaded for " .. YOUR_NAME .. " - blocks under feet")
 ```
+
+## Godmode / Antihit
+
+```lua
+local YOUR_NAME = "DeathKiller19386"
+
+Events.EntityDamage(function(event)
+    local tp = event.entity:getPlayer()
+    if tp and tp.name == YOUR_NAME then
+        event.cancelled = true
+        event.damage = 0
+    end
+end)
+```
+
+## KillAura
+
+```lua
+-- ULTIMATE KILL AURA for DeathKiller19386 - Attacks ALL entities (players, titans, mobs, bhan, etc.)
+-- Uses EntityService.getNearbyEntities() for ALL damageable targets
+
+local YOUR_NAME = "DeathKiller19386"
+local RANGE = 18          -- Melee range (studs)
+local DAMAGE = 10        -- Damage per swing
+local SWING_DELAY = 0.3  -- Auto-swing speed (lower = faster DPS)
+
+local myPlayer = nil
+
+-- Cache player on load/respawn
+Events.PlayerAdded(function(event)
+    if event.player.name == YOUR_NAME then
+        myPlayer = event.player
+        print("[Kill Aura] Player cached: " .. YOUR_NAME)
+    end
+end)
+
+-- Initial cache
+for _, p in PlayerService.getPlayers() do
+    if p.name == YOUR_NAME then
+        myPlayer = p
+        break
+    end
+end
+
+if not myPlayer then return end
+
+task.spawn(function()
+    while true do
+        task.wait(SWING_DELAY)
+        
+        local myEntity = myPlayer:getEntity()
+        if not myEntity or not myEntity:isAlive() then continue end
+        
+        local myPos = myEntity:getPosition()
+        local nearbyEntities = EntityService.getNearbyEntities(myPos, RANGE)
+        
+        if nearbyEntities then
+            for _, target in ipairs(nearbyEntities) do
+                if target ~= myEntity and target:isAlive() and target:getPlayer() ~= myPlayer then
+                    CombatService.damage(target, DAMAGE, myEntity)
+                    print("[Kill Aura] Swung " .. DAMAGE .. " dmg on entity (" .. math.floor((target:getPosition() - myPos).magnitude) .. " studs)")
+                    break  -- Hit nearest first, or remove to hit all
+                end
+            end
+        end
+    end
+end)
+```
